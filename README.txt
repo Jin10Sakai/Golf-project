@@ -1,4 +1,4 @@
-Golf Mania was developed as a part of our CSE 102 sessional project. The game was developed by Rafsan Nafee (2505155) & Mahian Tahsin (2505158). Thee project was developed in C language using the Raylib library functions. The project was supervised by Sumaiya Sultana Any Ma'am. We hope you enjoy the game!!
+Golf Mania was developed as a part of our CSE 102 sessional project. The game was developed by Rafsan Nafee (2505155) & Mahian Tahsin (2505158). The project was developed in C language using the Raylib library functions. The project was supervised by Sumaiya Sultana Any Ma'am. We hope you enjoy the game!!
 
 How To Play:
   - open Vscode and open the folder Golf Mania there.
